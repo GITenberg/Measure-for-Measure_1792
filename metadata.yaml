@@ -1,5 +1,5 @@
 _repo: Measure-for-Measure_1792
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Chastity -- Drama'
 - !lcsh 'Vienna (Austria) -- Drama'
+- GITenberg
 title: Measure for Measure
 url: http://www.gutenberg.org/ebooks/1792
